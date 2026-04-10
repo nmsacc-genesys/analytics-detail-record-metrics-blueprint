@@ -1,13 +1,3 @@
----
-title: Use the Analytics Detailed Record Metric app to analyze the performance of your contact center
-author: jenissa.barrera
-indextype: blueprint
-icon: blueprint
-image: images/flowchart.png
-category: 11
-summary: |
-  This Genesys Cloud Developer Blueprint shows how to build, run, and embed a Vite and TypeScript analytics dashboard that authenticates with Genesys Cloud using PKCE and surfaces conversation KPIs plus agent presence details.
----
 
 :::{\"alert\":\"primary\",\"title\":\"About Genesys Cloud Blueprints\",\"autoCollapse\":false} Genesys Cloud blueprints are intended to help you jump-start an integration or application. They show one practical implementation path and are not production-ready, turn-key solutions.
 
@@ -52,7 +42,7 @@ Before you begin, make sure you have the following:
 ### Genesys Cloud access
 
 * A valid Genesys Cloud license. For more information, see [Genesys Cloud pricing](https://www.genesys.com/pricing "Opens the Genesys Cloud pricing page").
-* A role with sufficient administrative permissions. The Master Admin role is recommended. For more information, see [Roles and permissions overview](https://help.mypurecloud.com/?p=24360 "Opens the Roles and permissions overview article").
+* A role with sufficient administrative permissions. The Master Admin role is recommended. For more information, see [Roles and permissions overview](https://help.genesys.cloud/articles/about-roles-permissions/ "Opens the Roles and permissions overview article").
 
 ## Implementation steps
 
